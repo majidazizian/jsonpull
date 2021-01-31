@@ -4,7 +4,12 @@ This package is supposed to provide interesting tools for working with JSON.
 Currently only has JPrint. JPrint format the output of JSON objects for printing.
 We will add better features in the future.
 
-## How do I use it?
+## Installing
+Installing using `pip` :
+```bash
+    pip install jsonpull
+```
+## Importing  and using
 
 ```python
     import jsonpull
